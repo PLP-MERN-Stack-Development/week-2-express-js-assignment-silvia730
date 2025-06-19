@@ -78,29 +78,19 @@ All errors are centrally handled and returned with meaningful messages and statu
 ✅ How to Run Locally
 Clone the repo:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/YOUR_USERNAME/YOUR_CLASSROOM_REPO.git
 cd express-product-api
-Install dependencies:
+Install dependencies
 
-bash
-Copy
-Edit
 npm install
 Create .env file:
-
-bash
-Copy
-Edit
 PORT=5000
 Run the server:
 
-bash
-Copy
-Edit
 npm start
+
+
 🙌 Author
 👩🏽‍💻 Silvia Njeri
 
